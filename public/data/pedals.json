@@ -26997,6 +26997,13 @@
 		"Image": "providence-chrono.png"
 	},
 	{
+		"Brand": "Providence",
+		"Name": "System Tuner",
+		"Width": 2.99,
+		"Height": 4.52,
+		"Image": "providence_system_tuner.png"
+	},
+	{
 		"Brand": "PRS Guitars",
 		"Name": "Horsemeat",
 		"Width": 3.7,
